@@ -1,0 +1,1179 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"DE",
+				"DECIMAL"
+			],
+			[
+				"sm",
+				"SMALLINT"
+			],
+			[
+				"geom_",
+				"geom_bar"
+			],
+			[
+				"geom",
+				"geom_smooth"
+			],
+			[
+				"sh",
+				"shape"
+			],
+			[
+				"g",
+				"geom_line"
+			],
+			[
+				"ge",
+				"geom_point"
+			],
+			[
+				"co",
+				"couleur"
+			],
+			[
+				"corr",
+				"correction"
+			],
+			[
+				"group",
+				"group_by"
+			],
+			[
+				"GROUP",
+				"group_by"
+			],
+			[
+				"de",
+				"dep_delay."
+			],
+			[
+				"summa",
+				"summarise"
+			],
+			[
+				"dep",
+				"dep_time_diff"
+			],
+			[
+				"sched_dep_time_",
+				"sched_dep_time_min"
+			],
+			[
+				"dep_",
+				"dep_time_min"
+			],
+			[
+				"sche",
+				"sched_dep_time"
+			],
+			[
+				"arr",
+				"arr_time"
+			],
+			[
+				"d",
+				"d_filter\tsnp-filter.R"
+			],
+			[
+				"S",
+				"SHA1"
+			],
+			[
+				"article",
+				"article_id"
+			],
+			[
+				"date",
+				"date_publication"
+			],
+			[
+				"utilisateur",
+				"utilisateur_id"
+			],
+			[
+				"u",
+				"utilisateur_id"
+			],
+			[
+				"UNI",
+				"UNSIGNED"
+			],
+			[
+				"ae",
+				"aes"
+			],
+			[
+				"df",
+				"df_q4"
+			],
+			[
+				"ties",
+				"ties.method"
+			],
+			[
+				"ran",
+				"min_rank"
+			],
+			[
+				"sched",
+				"sched_dep_time_convertmin"
+			],
+			[
+				"da",
+				"d-arrange\tsnp-arrange.R"
+			],
+			[
+				"a",
+				"arrange"
+			],
+			[
+				"is",
+				"is.na"
+			],
+			[
+				"flight",
+				"flights"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"des",
+				"dest"
+			],
+			[
+				"su",
+				"summary"
+			],
+			[
+				"na",
+				"names"
+			],
+			[
+				"fi",
+				"flights"
+			],
+			[
+				"f",
+				"flights"
+			],
+			[
+				"li",
+				"library"
+			],
+			[
+				"t",
+				"Transactions"
+			],
+			[
+				"l",
+				"LIMIT"
+			],
+			[
+				"alte",
+				"ALTER"
+			],
+			[
+				"P",
+				"Products"
+			],
+			[
+				"T",
+				"Transactions"
+			],
+			[
+				"Pro",
+				"Products"
+			],
+			[
+				"se",
+				"SELECT"
+			],
+			[
+				"c",
+				"Customers"
+			],
+			[
+				"C",
+				"Customers"
+			],
+			[
+				"nom",
+				"nom_courant"
+			],
+			[
+				"A",
+				"Animal"
+			],
+			[
+				"s-so",
+				"s-source\tsql-use-source-snippet"
+			],
+			[
+				"id_",
+				"fk_id_prod"
+			],
+			[
+				"pr",
+				"Products"
+			],
+			[
+				"n",
+				"NOT"
+			],
+			[
+				"N",
+				"NOT"
+			],
+			[
+				"s-t",
+				"s-table\tsql-table"
+			],
+			[
+				"IN",
+				"INTO"
+			],
+			[
+				"Cat",
+				"Categorie"
+			],
+			[
+				"I",
+				"INTO"
+			],
+			[
+				"in",
+				"INT"
+			],
+			[
+				"U",
+				"UNSIGNED"
+			],
+			[
+				"p",
+				"PRIMARY"
+			],
+			[
+				"UT",
+				"utf8"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"utilis",
+				"utilisateur"
+			],
+			[
+				"ac",
+				"actor "
+			],
+			[
+				"F",
+				"FAWCETT"
+			],
+			[
+				"J",
+				"Julie"
+			],
+			[
+				"Ju",
+				"JULIA"
+			],
+			[
+				"te",
+				"TEMPLE"
+			],
+			[
+				"la",
+				"last_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "elevage_part3.sql",
+			"settings":
+			{
+				"buffer_size": 8223,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "exo agregat.sql",
+			"settings":
+			{
+				"buffer_size": 556,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/x/Documents/SQL/elevage/elevage-schema.sql",
+			"settings":
+			{
+				"buffer_size": 9484,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"r",
+				"Set Syntax: R"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sen",
+				"SendCode: Choose Program"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"send",
+				"SendCode: Choose Program"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet f",
+				"Snippet: sql-fk"
+			],
+			[
+				"si",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/x/Documents/Projet simplon/elevage/SET NAMES utf8;.sql",
+		"/C/Users/x/Documents/Projet simplon/HTML project/tableau2.html",
+		"/C/Users/x/Documents/Projet simplon/NYC flights/.Rprofile",
+		"/C/Users/x/Documents/Projet simplon/NYC flights/flights_script.R",
+		"/C/ProgramData/MySQL/MySQL Server 8.0/Uploads/flights_csv_MySQL/flights.csv",
+		"/C/Users/x/Documents/Projet simplon/NYC flights/flights_schema_correction.sql",
+		"/C/Users/x/Documents/Projet simplon/NYC flights/flights-data_V10.sql",
+		"/C/Users/x/Documents/Projet simplon/NYC flights/diverses commandes SQL R etc",
+		"/C/Users/x/Documents/Projet simplon/HTML/mon_cv",
+		"/C/Users/x/Documents/Projet simplon/NYC flights/flights-schema_V00.sql",
+		"/C/Users/x/Documents/Projet simplon/NYC flights/NYC flights.sublime-project",
+		"/C/Users/x/Documents/Projet simplon/NYC flights/flights/.Rprofile",
+		"/C/Users/x/Documents/Projet simplon/NYC flights/flights/flights/.Rprofile",
+		"/C/Users/x/Documents/RPROJECTS/flights/flights-schema_V00.sql",
+		"/C/Users/x/Documents/RPROJECTS/flights/flights-data_V10.sql",
+		"/C/Users/x/Documents/RPROJECTS/flights/flights_schema_correction.sql",
+		"/C/Users/x/Documents/RPROJECTS/flights/flights_script.R",
+		"/C/ProgramData/MySQL/MySQL Server 8.0/Uploads/flights_project/flights.csv",
+		"/C/Users/x/Documents/RPROJECTS/flights/flights-data_V00.sql",
+		"/C/Users/x/Documents/RPROJECTS/flights/.Rprofile",
+		"/C/Users/x/Documents/RPROJECTS/flights/exo Data for science.R",
+		"/C/Users/x/Documents/SQL/OCR_activite2/ptp1_schema.sql",
+		"/C/Users/x/Documents/SQL/OCR_activite2/ptp1_data.sql",
+		"/C/Users/x/Documents/SQL/OCR_activite2/requetes_blog.sql",
+		"/C/Users/x/Desktop/ptp1.sql",
+		"/C/Users/x/Desktop/f95b752b0356dca995fa875d41c9c07d76e5b262/ptp1_depart_devoir.sql",
+		"/C/Users/x/Downloads/p2pInsertion1.sql",
+		"/C/Users/x/Documents/SQL/OCR_activite2/blog_brouillon.sql",
+		"/C/Users/x/Documents/SQL/sakila-db/sakila-db/sakila-data.sql",
+		"/C/Users/x/Documents/Sublime Text Build 3176/Data/Packages/User/snp-arrange.R.sublime-snippet",
+		"/C/Users/x/Documents/Sublime Text Build 3176/Data/Packages/User/snp-filter.R.sublime-snippet",
+		"/C/Users/x/Documents/R/exo Data for science.R",
+		"/C/Users/x/Documents/SQL/librairie/librairie-schema.sql",
+		"/C/Users/x/Documents/SQL/librairie/requetes-librairie.sql",
+		"/C/Users/x/Documents/SQL/librairie/librairie-data.sql",
+		"/C/Users/x/Downloads/L_UNIQUE_CARRIERS.csv_",
+		"/C/Users/x/Documents/RPROJECTS/ClientsProduitsTransactions/products.csv",
+		"/C/Users/x/Documents/SQL/sakila-db/sakila-db/sakilaModif-schema.sql",
+		"/C/Users/x/Documents/SQL/sakila-db/sakila-db/corrigé sakila.sql",
+		"/C/Users/x/Documents/Sublime Text Build 3176/Data/Packages/User/SendCode.sublime-settings",
+		"/C/Users/x/Documents/Sublime Text Build 3176/Data/Packages/SendCode/SendCode (Windows).sublime-settings",
+		"/C/Users/x/Documents/Sublime Text Build 3176/Data/Packages/User/SQL/sublime-sql-snippets-master/sublime-sql-snippets-master/users/sql-use-con-snippet.sublime-snippet",
+		"/C/Users/x/Documents/SQL/test_join/test_leftjoin-data.sql",
+		"/C/Users/x/Documents/SQL/elevage/elevage-schema.sql",
+		"/C/ProgramData/MySQL/MySQL Server 8.0/Uploads/librairie/transactions.csv",
+		"/C/Users/x/Documents/SQL/librairie/customers.csv",
+		"/C/Users/x/Documents/SQL/librairie/products.csv",
+		"/C/Users/x/Documents/SQL/test_join/test_leftjoin-schema.sql",
+		"/C/ProgramData/MySQL/MySQL Server 8.0/my.ini",
+		"/C/Users/x/Documents/Sublime Text Build 3176/Data/Packages/User/SQL/sublime-sql-snippets-master/sublime-sql-snippets-master/users/sql-use-source-snippet.sublime-snippet",
+		"/C/Users/x/Documents/Sublime Text Build 3176/Data/Packages/User/sql-use-con-snippet.sublime-snippet",
+		"/C/Users/x/Documents/SQL/librairie/brouillon.sql",
+		"/C/Users/x/Documents/SQL/test_sakila/test_cascade-schema.sql",
+		"/C/ProgramData/MySQL/MySQL Server 8.0/Uploads/animal.csv",
+		"/C/Users/x/Documents/SQL/sakila-db/sakila-db/libraie-date.sql",
+		"/C/Users/x/Documents/SQL/sakila-db/sakila-db/librairie.sql",
+		"/C/Users/x/Documents/RPROJECTS/ClientsProduitsTransactions/dataset clients produits transactions/customers.csv",
+		"/C/Users/x/Documents/SQL/elevage/elevage-data_brouillon.sql",
+		"/C/Users/x/Documents/SQL/elevage/elevage-schema_brouillon.sql",
+		"/C/Users/x/Documents/SQL/elevage/elevage-data.sql",
+		"/C/Users/x/Documents/SQL/Livre.sql",
+		"/C/Users/x/Documents/SQL/elevage/animal_asmahan.sql",
+		"/C/Users/x/Documents/SQL/elevage/animal.csv",
+		"/C/Users/x/Documents/SQL/OCR_activite2/ptp1_depart.sql",
+		"/C/Users/x/Documents/SQL/test_join/elevage-data.sql",
+		"/C/Users/x/Documents/SQL/test_join/elevage-schema.sql",
+		"/C/Users/x/Desktop/sakila-db/sakila-db/sakilaModif-schema.sql",
+		"/C/Users/x/Documents/SQL/sakila-db/sakila-db/sakilaModif-data.sql",
+		"/C/Users/x/Documents/SQL/test_join/DataFF.sql",
+		"/C/Users/x/Documents/SQL/test_join/Schema-FF.sql",
+		"/C/Users/x/Documents/SQL/sakila-db/sakila-db/leftjoin-data.sql",
+		"/C/Users/x/Documents/SQL/sakila-db/sakila-db/leftjoin-schema.sql",
+		"/C/Users/x/Documents/SQL/test_sakila/test_cascade-data.sql",
+		"/C/Users/x/Desktop/SQL/sakila-db/sakila-db/sakilaModif-data.sql",
+		"/C/Users/x/Desktop/SQL/test_sakila/test_cascade-data.sql",
+		"/C/Users/x/Desktop/SQL/test_sakila/test_cascade-schema.sql",
+		"/C/Users/x/Desktop/SQL/sakila-db/sakila-db/sakila-data.sql",
+		"/C/Users/x/Desktop/sakila-db/sakila-db/sakilaModif-data.sql",
+		"/C/Users/x/Desktop/sakila-db/sakila-db/sakila-data.sql",
+		"/C/Users/x/Desktop/sakila-db/sakila-db/sakila-schema.sql"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "elevage_part3.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8223,
+								8223
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "exo agregat.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/x/Documents/SQL/elevage/elevage-schema.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										202,
+										203
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										200,
+										201
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "elevage_part3.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"/sql",
+				"NYC flights\\flights_schema_correction.sql"
+			],
+			[
+				"",
+				"C:\\Users\\x\\Documents\\SQL\\librairie\\librairie-brouillon.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

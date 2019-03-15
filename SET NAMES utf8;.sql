@@ -1,5 +1,5 @@
 SET NAMES utf8;
-
+# test github
 DROP TABLE IF EXISTS Animal;
 DROP TABLE IF EXISTS Race;
 DROP TABLE IF EXISTS Espece;
